@@ -5,14 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quang Huy</title>
+    <style>
+      
+    </style>
 </head>
-<body></body>
-    <?php
-    echo"<h1 style='color: black; text-align: center';>Hello Jimmy</h1>";
-    echo"<h2 style='color: red; text-align: center';>You have been Deploy code to Heroku successfully! </h2>";
-    ?>
-    <img style="padding-left: 18%;" src="./Veigar.jpg" alt="Veigar">
-    <p style="text-align: center">
+<body>
+    <h1 style="color: black; text-align: center">Hello Jimmy</h1>
+    <h2 style="color: red; text-align: center">You have been Deploy code to Heroku successfully! </h2>
+
+    <img style="padding-left: 10%;" src="./Veigar.jpg" alt="Veigar">
+    <p style="text-align: center; color: black; font-size: larger;">
         Anh Huy xin chào các bạn nhỏ, các bạn nhỏ muốn solo gì nào? <br>
         Call Me: 03948489901 <br>
         Name: Nguyen Quang Huy
