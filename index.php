@@ -8,8 +8,8 @@
 </head>
 <body></body>
     <?php
-    echo"<h1 style='color: black';>Hello Jimmy</h1>";
-    echo"<h2 style='color: red';>You have been deploy code to Heroku successfully! </h2>";
+    echo"<h1 style='color: black; text-align: center';>Hello Jimmy</h1>";
+    echo"<h2 style='color: red; text-align: center';>You have been deploy code to Heroku successfully! </h2>";
     ?>
     <img src="./Veigar.jpg" alt="Veigar">
     <p style="text-align: center">
