@@ -11,6 +11,11 @@
     echo"<h1 style='color: black';>Hello Jimmy</h1>";
     echo"<h2 style='color: red';>You have been deploy code to Heroku successfully! </h2>";
     ?>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funiverse.leagueoflegends.com%2Fvn_VN%2Fchampion%2Fveigar%2F&psig=AOvVaw3FRTexw8IdFeQwX61hs2h_&ust=1663924047691000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLimiqSGqPoCFQAAAAAdAAAAABAD" alt="Veigar">
+    <img src="./Veigar.jpg" alt="Veigar">
+    <p style="text-align: center">
+        Anh Huy xin chào các bạn nhỏ, các bạn nhỏ muốn solo gì nào? <br>
+        Call Me: 03948489901 <br>
+        Name: Nguyen Quang Huy
+    </p>
 </body>
 </html>
